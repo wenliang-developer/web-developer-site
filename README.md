@@ -19,6 +19,7 @@
 ## 其他网站:
 - http://www.flipcode.com/ -- 游戏开发英文网站，非常全面
 - http://www.uncontrol.com/ -- 设计感超强的 WebGL 程序
+- http://html5reset.org/ -- HTML5 Reset是（HTML，CSS等）一套设计组件，旨在帮助用户节省大量的时间，创建更加高效的项目。
 
 ## 开发社区：
 - https://developer.mozilla.org/  -- mozilla 开发者
@@ -26,7 +27,6 @@
 - https://developer.apple.com/ -- apple 开发者
 - http://www.ibm.com/developerworks -- IBM 开发者
 - http://dev.opera.com/ -- Opera 开发者
-- http://reference.sitepoint.com/javascript -- Web development reference site 非常强大
 
 
 ## 官方文档、手册：
@@ -66,6 +66,7 @@
  
 
 ## HTML CSS 开发：
+- http://reference.sitepoint.com/javascript -- Web development reference site 非常强大
 - http://www.bypeople.com/ -- css 设计网站，ui 教程很全面。
 - http://www.css3.info/ -- 关于 css 所有你需要知道的相关知识，非常全面。
 - http://www.pvmgarage.com/ -- web 网站设计与开发 网站
@@ -75,7 +76,6 @@
 - http://www.codewars.com/ -- 开发者可以在Codewars上面学习各种编程语言，Codewars的奖励系统激励程序员们像打游戏升级一样地做习题。
 - http://www.pluralsight.com/ -- Pluralsight提供的课程类型包括:C#、jQuery、iOS与Android、Java、Ruby以及包括设计、社会化媒体、NoSQL、商业智能和Salesforce等.
 - http://www.csszengarden.com/ -- css禅意花园
-- http://html5reset.org/ -- HTML5 Reset是（HTML，CSS等）一套设计组件，旨在帮助用户节省大量的时间，创建更加高效的项目。
 - http://html5doctor.com/ -- HTML5 & CSS3 学习
 - http://css3generator.com/ -- css3 代码生成工具
 - https://www.codeschool.com/ -- 网页学习网站 付费
