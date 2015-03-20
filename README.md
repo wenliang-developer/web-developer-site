@@ -19,7 +19,7 @@
 ## 其他网站:
 - http://www.flipcode.com/ -- 游戏开发英文网站，非常全面
 - http://www.uncontrol.com/ -- 设计感超强的 WebGL 程序
-- 
+
 ## 开发社区：
 - https://developer.mozilla.org/  -- mozilla 开发者
 - http://msdn.microsoft.com/ -- microsoft 开发者
@@ -46,8 +46,8 @@
 - http://www.w3cschool.cc/ -- web 技术学习网站, 很浅,但可以入门
 
 ## Online Book：
-https://www.safaribooksonline.com/ -- safari online book
-http://www.apress.com/ -- apress IT技术类书籍网站
+- https://www.safaribooksonline.com/ -- safari online book
+- http://www.apress.com/ -- apress IT技术类书籍网站
 
 ## 博客：
 - http://webdesignerwall.com/ -- 国外前端个人博客，非常不错。
@@ -83,10 +83,10 @@ http://www.apress.com/ -- apress IT技术类书籍网站
 - http://www.polymer-project.org/ -- HTML5 & CSS3 Plugins Developer
 
 
-Online Tools：
-http://codepen.io/ -- 在线网页编辑器
+## Online Tools：
+- http://codepen.io/ -- 在线网页编辑器
 
 
-Code：
-https://code.google.com/p/qomo/downloads/list
-http://rubyinstaller.org/ - ruby installer package
+## Code：
+- https://code.google.com/p/qomo/downloads/list
+- http://rubyinstaller.org/ - ruby installer package
