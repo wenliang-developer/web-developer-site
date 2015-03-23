@@ -63,7 +63,7 @@
 - http://www.html5test.com/ -- 浏览器对HTML5规范的支持情况 用于测试浏览器
 - http://fmbip.com/litmus -- HTML5 & CSS3 Support
 - http://www.quirksmode.org/ -- QuirksMode.org是在互联网上的浏览器兼容性信息的主要来源
- 
+
 
 ## HTML CSS 开发：
 - http://reference.sitepoint.com/javascript -- Web development reference site 非常强大
@@ -82,7 +82,7 @@
 - http://tutsplus.com/ -- Web开发人员和设计师提供的教程和技术文章的目的网站，技能和技巧，提高您如何设计和建立网站。
 - http://www.polymer-project.org/ -- HTML5 & CSS3 Plugins Developer
 - http://tympanus.net/ -- 网页设计网站，有很多 css 实现代码
-
+- http://nmsdvid.com/snippets/ - media query 片段
 ## Online Tools：
 - http://codepen.io/ -- 在线网页编辑器
 
