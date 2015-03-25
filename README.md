@@ -66,6 +66,7 @@
 
 
 ## HTML CSS 开发：
+- http://www.smashingmagazine.com/ -- 是一个在线杂志为专业的Web设计人员和开发人员，重点是有用的技术，最佳实践和宝贵的资源
 - http://reference.sitepoint.com/javascript -- Web development reference site 非常强大
 - http://www.bypeople.com/ -- css 设计网站，ui 教程很全面。
 - http://www.css3.info/ -- 关于 css 所有你需要知道的相关知识，非常全面。
