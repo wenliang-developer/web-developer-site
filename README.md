@@ -50,6 +50,7 @@
 - http://www.apress.com/ -- apress IT技术类书籍网站
 
 ## 博客：
+- http://demosthenes.info/ -- Dudley Storey (《Pro CSS3 Animation》的作者)，主要讨论 web 设计和 HTML、CSS、SVG 开发。
 - http://webdesignerwall.com/ -- 国外前端个人博客，非常不错。
 - http://red-team-design.com/ -- 国外前端个人博客，推荐阅读。
 - http://blog.teamtreehouse.com/ -- Learn HTML, CSS, iPhone apps & more
