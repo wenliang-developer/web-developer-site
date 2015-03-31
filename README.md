@@ -67,6 +67,7 @@
 
 
 ## HTML CSS 开发：
+- http://www.html5rocks.com/ -- Google 推出的推广HTML5 的站点。 站点包括4大功能:tml5 功能介绍、Html5 在线练习场、Html5 实现例子、Html5 教程和资源。
 - http://www.smashingmagazine.com/ -- 是一个在线杂志为专业的Web设计人员和开发人员，重点是有用的技术，最佳实践和宝贵的资源
 - http://reference.sitepoint.com/javascript -- Web development reference site 非常强大
 - http://www.bypeople.com/ -- css 设计网站，ui 教程很全面。
