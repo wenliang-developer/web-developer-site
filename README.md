@@ -64,7 +64,7 @@
 - http://www.html5test.com/ -- 浏览器对HTML5规范的支持情况 用于测试浏览器
 - http://fmbip.com/litmus -- HTML5 & CSS3 Support
 - http://www.quirksmode.org/ -- QuirksMode.org是在互联网上的浏览器兼容性信息的主要来源
-
+- http://css4-selectors.com/ -- css1 ~ css4 selectors 支持性检测
 
 ## HTML CSS 开发：
 - http://www.html5rocks.com/ -- Google 推出的推广HTML5 的站点。 站点包括4大功能:tml5 功能介绍、Html5 在线练习场、Html5 实现例子、Html5 教程和资源。
