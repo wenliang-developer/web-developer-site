@@ -67,6 +67,7 @@
 - http://css4-selectors.com/ -- css1 ~ css4 selectors 支持性检测
 
 ## HTML CSS 开发：
+- http://www.creativebloq.com/ -- CreativeBloq:每日创意灵感分享博客，是由Dan Oliver创办，五位合作伙伴共同维护，主要分享网页设计、平面设计、3D设计等方面，帮助读者掌握世界设计行业的最新趋势和发展，分解优秀的设计作品。
 - http://cssdeck.com/ -- HTML5，CSS3，JS演示，创造和实验| cssdeck
 - http://alistapart.com/ -- web 开发文章，很专业。
 - http://tympanus.net/codrops/ -- 关于网页效果实现相关的文章。
