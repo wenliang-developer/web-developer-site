@@ -1,4 +1,4 @@
-
+- http://www.woshipm.com/ -- 人人都是产品经理-产品经理、产品爱好者学习交流平台
 - http://ke.qq.com/ -- 腾讯学堂
 - http://99u.com/ -- 99U是Behance创办的启发灵感，探索创意发展方向的课题类站点
 - http://www.ok-studios.de/home/ -- 视差滚动
