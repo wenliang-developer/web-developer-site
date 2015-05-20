@@ -8,6 +8,7 @@
 - http://www.tiobe.com/ -- TIOBE排行榜是根据互联网上有经验的程序员、课程和第三方厂商的数量，并使用搜索引擎（如Google、Bing、Yahoo!、百度）以及Wikipedia、Amazon、YouTube统计出排名数据，只是反映某个编程语言的热门程度，并不能说明一门编程语言好不好，或者一门语言所编写的代码数量多少。
 - http://www.zhiliaotech.com/ -- 知了社区--it商务咨询
 - https://www.google.com/intl/en/chrome/browser/canary.html -- 谷歌浏览器金丝雀版
+- https://vimeo.com/ -- Vimeo是一个高清视频播客网站，与大多数类似的视频分享网站不同，Vimeo允许上传1280X700的高清视频，上传后Vimeo会自动转码为高清视频，源视频文件可以自由下载，它达到了真正的高清视频标准。Vimeo允许每月上传500MB的高清或普通视频，用户可以定制视频的显示尺寸。
 
 ## JavaScript IDE：
 1. Akshell (Development through Passion) -- http://www.akshell.com/
