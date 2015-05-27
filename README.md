@@ -11,6 +11,9 @@
 - https://www.google.com/intl/en/chrome/browser/canary.html -- 谷歌浏览器金丝雀版
 - https://vimeo.com/ -- Vimeo是一个高清视频播客网站，与大多数类似的视频分享网站不同，Vimeo允许上传1280X700的高清视频，上传后Vimeo会自动转码为高清视频，源视频文件可以自由下载，它达到了真正的高清视频标准。Vimeo允许每月上传500MB的高清或普通视频，用户可以定制视频的显示尺寸。
 
+## text IDE:
+1. Komodo IDE -- http://komodoide.com/
+
 ## JavaScript IDE：
 1. Akshell (Development through Passion) -- http://www.akshell.com/
 2. Spket -- http://spket.com/
