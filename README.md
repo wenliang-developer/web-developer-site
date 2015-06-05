@@ -1,3 +1,4 @@
+- http://www.talkmate.com/ -- 全球说
 - 程序员的七种武器 -- 很重要
 - http://www.woshipm.com/ -- 人人都是产品经理-产品经理、产品爱好者学习交流平台
 - http://ke.qq.com/ -- 腾讯学堂
