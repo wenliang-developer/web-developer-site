@@ -14,6 +14,9 @@
 - https://vimeo.com/ -- Vimeo是一个高清视频播客网站，与大多数类似的视频分享网站不同，Vimeo允许上传1280X700的高清视频，上传后Vimeo会自动转码为高清视频，源视频文件可以自由下载，它达到了真正的高清视频标准。Vimeo允许每月上传500MB的高清或普通视频，用户可以定制视频的显示尺寸。
 - http://githubranking.com/ -- github 排行榜
 
+## design:
+1. http://www.csswinner.com/
+
 ## text IDE:
 1. Komodo IDE -- http://komodoide.com/
 
