@@ -32,6 +32,7 @@
 - http://www.flipcode.com/ -- 游戏开发英文网站，非常全面
 - http://www.uncontrol.com/ -- 设计感超强的 WebGL 程序
 - http://html5reset.org/ -- HTML5 Reset是（HTML，CSS等）一套设计组件，旨在帮助用户节省大量的时间，创建更加高效的项目。
+- http://vis.stanford.edu/ -- 斯坦福可视化工作组
 
 ## 开发社区：
 - https://developer.mozilla.org/  -- mozilla 开发者
