@@ -60,6 +60,7 @@
 - http://www.oschina.net/translate/20-powerful-sublimetext-plugins -- sublime test plugins 推荐
 - http://www.w3schools.com/ -- Web 开发参考手册
 - http://www.w3cschool.cc/ -- web 技术学习网站, 很浅,但可以入门
+- http://exploringjs.com/es6/ -- **Exploring ES6 電子書**
 
 ## Online Book：
 - https://www.safaribooksonline.com/ -- safari online book
