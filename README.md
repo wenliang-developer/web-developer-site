@@ -79,6 +79,7 @@
 ## HTML CSS 支持性阅览网站：
 - http://html5demos.com/ -- 快速查找 HTML5 兼容性，都附有 demo
 - http://caniuse.com/ --  html5 css3 svg 等 web API 支持情况 很详细
+- http://mobilehtml5.org/ -- html5 css3 总览表
 - http://www.html5test.com/ -- 浏览器对HTML5规范的支持情况 用于测试浏览器
 - http://fmbip.com/litmus -- HTML5 & CSS3 Support
 - http://www.quirksmode.org/ -- QuirksMode.org是在互联网上的浏览器兼容性信息的主要来源
