@@ -109,7 +109,6 @@
 - http://www.pluralsight.com/ -- Pluralsight提供的课程类型包括:C#、jQuery、iOS与Android、Java、Ruby以及包括设计、社会化媒体、NoSQL、商业智能和Salesforce等.
 - http://www.csszengarden.com/ -- css禅意花园
 - http://html5doctor.com/ -- HTML5 & CSS3 学习
-- http://css3generator.com/ -- css3 代码生成工具
 - https://www.codeschool.com/ -- 网页学习网站 付费
 - http://tutsplus.com/ -- Web开发人员和设计师提供的教程和技术文章的目的网站，技能和技巧，提高您如何设计和建立网站。
 - http://www.polymer-project.org/ -- HTML5 & CSS3 Plugins Developer
@@ -120,6 +119,8 @@
 ## Online Tools：
 - http://codepen.io/ -- 在线网页编辑器
 - http://www.youziku.com/ -- 有字库 中文字体转换 @font-face
+- http://bennettfeely.com/clippy/ -- clip-path 生成器
+- http://css3generator.com/ -- css3 代码生成工具
 
 
 ## Code：
