@@ -87,6 +87,7 @@
 - http://madebymike.com.au/html5-periodic-table/ -- Periodic table of HTML 5 elements -- HTML5 elements 周期表
 
 ## HTML CSS 开发：
+- http://vanseodesign.com/ -- 关于 web 设计的文章。
 - https://developers.google.com/web/fundamentals/ -- 现代 web 开发最佳实践
 - http://www.alloyteam.com/ -- 腾讯全端 blog
 - http://www.creativebloq.com/ -- CreativeBloq:每日创意灵感分享博客，是由Dan Oliver创办，五位合作伙伴共同维护，主要分享网页设计、平面设计、3D设计等方面，帮助读者掌握世界设计行业的最新趋势和发展，分解优秀的设计作品。
