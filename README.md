@@ -75,6 +75,7 @@
 - http://blog.endlesscode.me/ -- 学习博客，重要等级低
 - http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html -- javascript 知识 博客
 - http://www.neoease.com/ -- 是一个关注互联网发展、网站开发和 WordPress 定制化的独立博客
+- https://blogs.adobe.com/ -- adobe 博客
 
 ## HTML CSS 支持性阅览网站：
 - http://html5demos.com/ -- 快速查找 HTML5 兼容性，都附有 demo
