@@ -61,6 +61,7 @@
 - http://www.w3schools.com/ -- Web 开发参考手册
 - http://www.w3cschool.cc/ -- web 技术学习网站, 很浅,但可以入门
 - http://exploringjs.com/es6/ -- **Exploring ES6 電子書**
+- http://www.w3.org/TR/SVG/propidx.html -- 可以设置为CSS属性的SVG属性
 
 ## Online Book：
 - https://www.safaribooksonline.com/ -- safari online book
