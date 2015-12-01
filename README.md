@@ -68,7 +68,7 @@
 - https://www.safaribooksonline.com/ -- safari online book
 - http://www.apress.com/ -- apress IT技术类书籍网站
 
-## 博客：
+## 博客与个人网站：
 - http://sarasoueidan.com/ -- 关于 SVG 的文章。
 - http://demosthenes.info/ -- Dudley Storey (《Pro CSS3 Animation》的作者)，主要讨论 web 设计和 HTML、CSS、SVG 开发。
 - http://webdesignerwall.com/ -- 国外前端个人博客，非常不错。
@@ -79,6 +79,7 @@
 - http://www.neoease.com/ -- 是一个关注互联网发展、网站开发和 WordPress 定制化的独立博客
 - https://blogs.adobe.com/ -- adobe 博客
 - http://thenewcode.com/ -- Dudley Storey 大量有价值的文章
+- http://meyerweb.com/ -- Eric A. Meyer 很多有用的资源
 
 ## HTML CSS 支持性阅览网站：
 - http://html5demos.com/ -- 快速查找 HTML5 兼容性，都附有 demo
