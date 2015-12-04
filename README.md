@@ -26,6 +26,9 @@
 ## text IDE:
 1. Komodo IDE -- http://komodoide.com/
 
+## SVG IDE:
+- https://inkscape.org/ -- SVG 可视化编辑器 
+
 ## JavaScript IDE：
 1. Akshell (Development through Passion) -- http://www.akshell.com/
 2. Spket -- http://spket.com/
