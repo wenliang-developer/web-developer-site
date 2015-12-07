@@ -100,6 +100,7 @@
 - http://madebymike.com.au/html5-periodic-table/ -- Periodic table of HTML 5 elements -- HTML5 elements 周期表
 
 ## HTML CSS 开发：
+- http://webcomponents.org/ -- 关于 web components 方面的知识
 - http://vanseodesign.com/ -- 关于 web 设计的文章。
 - https://developers.google.com/web/fundamentals/ -- 现代 web 开发最佳实践
 - http://www.alloyteam.com/ -- 腾讯全端 blog
