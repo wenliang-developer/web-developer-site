@@ -99,6 +99,7 @@
 - http://www.quirksmode.org/ -- QuirksMode.org是在互联网上的浏览器兼容性信息的主要来源
 - http://css4-selectors.com/ -- css1 ~ css4 selectors 支持性检测
 - http://madebymike.com.au/html5-periodic-table/ -- Periodic table of HTML 5 elements -- HTML5 elements 周期表
+- https://dev.windows.com/en-us/microsoft-edge/platform/status/ -- Edge 浏览器 状态
 
 ## HTML CSS 开发：
 - http://webcomponents.org/ -- 关于 web components 方面的知识
