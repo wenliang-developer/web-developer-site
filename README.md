@@ -119,6 +119,7 @@
 - https://dev.windows.com/en-us/microsoft-edge/platform/status/ -- Edge 浏览器 状态
 
 ## HTML CSS 开发：
+- http://www.awwwards.com/ -- awwwards 网站奖-最佳网页设计的趋势
 - http://webcomponents.org/ -- 关于 web components 方面的知识
 - http://vanseodesign.com/ -- 关于 web 设计的文章。
 - https://developers.google.com/web/fundamentals/ -- 现代 web 开发最佳实践
