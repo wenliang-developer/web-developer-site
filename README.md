@@ -1,6 +1,7 @@
 罗塞塔石碑
 - http://www.sopanpan.com/ -- 百度云资源搜索
 - http://www.talkmate.com/ -- 全球说
+- http://readcolor.com/ -- 电纸书下载
 - http://ih5.cn/ -- h5 案例
 - http://laod.cn/hosts/2015-google-hosts.html -- Google hosts
 - 程序员的七种武器 -- 很重要
