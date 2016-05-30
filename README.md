@@ -42,6 +42,9 @@
 ## Game IDE：
 - Unity -- 游戏开发工具
 
+## Markdwon IDE:
+- haroopad
+
 ## text IDE:
 1. Komodo IDE -- http://komodoide.com/
 
