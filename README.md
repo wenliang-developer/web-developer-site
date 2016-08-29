@@ -130,6 +130,7 @@ wenliangplay@gmail.com
 - https://dev.windows.com/en-us/microsoft-edge/platform/status/ -- Edge 浏览器 状态
 
 ## HTML CSS 开发：
+- https://platform-status.mozilla.org/ -- Firefox Platform Status
 - https://www.toptal.com/ -- 招聘高级技术人才和设计师的网站，附带有许多很好的文章。
 - http://www.awwwards.com/ -- awwwards 网站奖-最佳网页设计的趋势
 - http://webcomponents.org/ -- 关于 web components 方面的知识
