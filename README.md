@@ -129,8 +129,12 @@ wenliangplay@gmail.com
 - http://madebymike.com.au/html5-periodic-table/ -- Periodic table of HTML 5 elements -- HTML5 elements 周期表
 - https://dev.windows.com/en-us/microsoft-edge/platform/status/ -- Edge 浏览器 状态
 
-## HTML CSS 开发：
+##Browser platform status
 - https://platform-status.mozilla.org/ -- Firefox Platform Status
+- https://developer.microsoft.com/en-us/microsoft-edge/platform/status/ -- IE Platform Status
+- https://www.chromestatus.com/features -- Chrome Platform Status
+
+## HTML CSS 开发：
 - https://www.toptal.com/ -- 招聘高级技术人才和设计师的网站，附带有许多很好的文章。
 - http://www.awwwards.com/ -- awwwards 网站奖-最佳网页设计的趋势
 - http://webcomponents.org/ -- 关于 web components 方面的知识
