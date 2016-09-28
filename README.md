@@ -31,6 +31,10 @@ wenliangplay@gmail.com
 - https://sketchboard.me
 - https://cacoo.com/lang/tr/sample/uml
 
+## 开发视频网站
+- https://channel9.msdn.com/ -- 第 9 频道： 由创建 Microsoft 产品和服务的人员提供的适用于开发人员的视频。
+- https://egghead.io/ -- 最新技术的视频教程网站。
+
 ## 分析：
 - https://developers.google.com/speed/pagespeed/insights/ -- PageSpeed Insights 是 google 提供的网站性能工具。它可以分析网页的性能并给出提升性能的建议和措施，是你用来分析和提高网站性能的利器。PageSpeed 可以作为 Chrome 的扩展程序进行安装。
 - http://www.softwareishard.com/blog/har-12-spec/ -- HAR 标准化的性能分析输出格式，可以被大多数性能分析工具支持。
@@ -136,7 +140,6 @@ wenliangplay@gmail.com
 - https://www.chromestatus.com/features -- Chrome Platform Status
 
 ## HTML CSS 开发：
-- https://egghead.io/ -- 最新技术的视频教程网站。
 - https://www.toptal.com/ -- 招聘高级技术人才和设计师的网站，附带有许多很好的文章。
 - http://www.awwwards.com/ -- awwwards 网站奖-最佳网页设计的趋势
 - http://webcomponents.org/ -- 关于 web components 方面的知识
