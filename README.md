@@ -28,6 +28,9 @@ wenliangplay@gmail.com
 ## TODO
 - https://iros.github.io/d3-v4-whats-new/ -- d3 v3 v4 版本差异
 
+## 算法
+- http://mathworld.wolfram.com/ -- 网络最广泛的数学资源
+
 ## UML tools
 - https://www.draw.io/
 - http://creately.com/
