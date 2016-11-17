@@ -3,7 +3,6 @@ WebGL 1.0 是以 OpenGL ES 2.0 为蓝本设计的，OpenGL ES 2.0 则是以 Open
 当然了，由于 Three.js 这类游戏引擎的存在，即便你不懂 WebGL，也可以快速地进行开发，但是，一旦你遇到意料之外的问题了，还是得回过头来看 WebGL，甚至看 OpenGL 红宝书。
 
 如果要学习传统的 OpenGL，那么脱不了三本书：
-
-红宝书 [OpenGL Programming Guide](http://www.glprogramming.com/red/)，出到第八版
-蓝宝书 [OpenGL SuperBible](http://www.starstonesoftware.com/OpenGL/)，出到第七版
-橙宝书 [OpenGL Shading Language](http://www.amazon.com/OpenGL-Shading-Language-3rd-Edition/dp/0321637631)，出到第三版
+- 红宝书 [OpenGL Programming Guide](http://www.glprogramming.com/red/)，出到第八版
+- 蓝宝书 [OpenGL SuperBible](http://www.starstonesoftware.com/OpenGL/)，出到第七版
+- 橙宝书 [OpenGL Shading Language](http://www.amazon.com/OpenGL-Shading-Language-3rd-Edition/dp/0321637631)，出到第三版
