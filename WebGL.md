@@ -6,3 +6,5 @@ WebGL 1.0 是以 OpenGL ES 2.0 为蓝本设计的，OpenGL ES 2.0 则是以 Open
 - 红宝书 [OpenGL Programming Guide](http://www.glprogramming.com/red/)，出到第八版
 - 蓝宝书 [OpenGL SuperBible](http://www.starstonesoftware.com/OpenGL/)，出到第七版
 - 橙宝书 [OpenGL Shading Language](http://www.amazon.com/OpenGL-Shading-Language-3rd-Edition/dp/0321637631)，出到第三版
+
+Edward Tufte
