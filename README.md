@@ -24,6 +24,7 @@ wenliangplay@gmail.com
 - dribbble.com -- 设计网站
 - www.behance.net -- 设计网站
 - http://subtlepatterns.com/ - 很多很棒的图案
+- http://citeseer.ist.psu.edu/stats/citations - 高引用计算机科学文献
 
 ## TODO
 - https://iros.github.io/d3-v4-whats-new/ -- d3 v3 v4 版本差异
