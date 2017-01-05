@@ -28,6 +28,9 @@ wenliangplay@gmail.com
 - http://subtlepatterns.com/ - 很多很棒的图案
 - http://citeseer.ist.psu.edu/stats/citations - 高引用计算机科学文献
 
+##演讲
+- https://speakerdeck.com/ -- 丰富的演讲稿
+
 ## TODO
 - https://iros.github.io/d3-v4-whats-new/ -- d3 v3 v4 版本差异
 
