@@ -4,6 +4,8 @@ wenliangplay@gmail.com
 
 软件开发原则 DRY
 
+CAP原理和BASE思想
+
 罗塞塔石碑
 - VoiceTube -- 英语视频学习网站
 - jolt大奖
