@@ -52,6 +52,7 @@ CAP原理和BASE思想
 - https://channel9.msdn.com/ -- 第 9 频道： 由创建 Microsoft 产品和服务的人员提供的适用于开发人员的视频。
 - https://egghead.io/ -- 最新技术的视频教程网站。
 - https://www.edx.org/course/introduction-computer-science-harvardx-cs50x -- https://cs50.harvard.edu/ -- CS50 的全名是 Introduction to Computer Science，是一堂哈佛大學的通識課程在 edx 上面有開課，任何人都可以去修，甚至還有助教幫你改作業
+- https://www.edx.org/ -- edX是一个大规模的免费在线学习网站，由麻省理工学院和哈佛大学联合创办于2012年。
 
 ## 分析：
 - https://developers.google.com/speed/pagespeed/insights/ -- PageSpeed Insights 是 google 提供的网站性能工具。它可以分析网页的性能并给出提升性能的建议和措施，是你用来分析和提高网站性能的利器。PageSpeed 可以作为 Chrome 的扩展程序进行安装。
