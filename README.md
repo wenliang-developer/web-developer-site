@@ -125,6 +125,7 @@ CAP原理和BASE思想
 - http://www.w3.org/2009/dap/ -- W3C Device API
 - https://www.w3.org/WAI/intro/aria -- W3C 可访问性
 - https://dev.w3.org/ -- This is an WWW interface to the W3C public CVS tree
+- https://www.ecma-international.org/publications/standards/Ecma-262.htm -- ECMAScript 标准文档
 
 ## Online Book：
 - https://www.safaribooksonline.com/ -- safari online book
