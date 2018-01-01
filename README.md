@@ -10,6 +10,7 @@ wenliangplay@gmail.com
 CAP原理和BASE思想
 
 罗塞塔石碑
+- Sci-hub 论文下载
 - VoiceTube -- 英语视频学习网站
 - jolt大奖
 - http://www.sopanpan.com/ -- 百度云资源搜索
