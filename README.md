@@ -8,7 +8,7 @@ wenliangplay@gmail.com
 软件开发原则 DRY
 
 CAP原理和BASE思想
-
+- http://www.ruanyifeng.com/home.html -- 阮一峰
 罗塞塔石碑
 - Sci-hub 论文下载
 - VoiceTube -- 英语视频学习网站
