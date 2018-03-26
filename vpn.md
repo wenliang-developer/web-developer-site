@@ -4,3 +4,4 @@
 - hidemyass
 - NordVPN
 - VPN Gate
+- I2P - 应急用，速度慢
