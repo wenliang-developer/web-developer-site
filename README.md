@@ -48,6 +48,7 @@ CAP原理和BASE思想
 
 ## 算法
 - http://mathworld.wolfram.com/ -- 网络最广泛的数学资源
+- https://grfia.dlsi.ua.es/ -- 阿利坎特大学 模式识别与人工智能小组
 
 ## UML tools
 - https://www.draw.io/
