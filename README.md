@@ -7,6 +7,9 @@ wenliangplay@gmail.com
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
 
+blog:
+- https://github.com/fi3ework/blog 前端知识
+
 规范
 - https://semver.org/ -- semver:语义化版本规范
 
