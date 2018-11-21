@@ -7,6 +7,8 @@ wenliangplay@gmail.com
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
 
+- http://mirrors.163.com/ 网易开源镜像
+
 blog:
 - https://github.com/fi3ework/blog 前端知识
 
