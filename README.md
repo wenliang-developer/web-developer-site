@@ -115,6 +115,7 @@ CAP原理和BASE思想
 
 
 ## 官方文档、手册：
+- https://www.iana.org/assignments/media-types/media-types.xhtml -- mime type
 - http://www.w3.org/html/ig/zh/wiki/Main_Page -- w3c wiki 非常详细
 - http://www.w3.org/DOM/Activity -- DOM 规范列表
 - http://www.regular-expressions.info/ -- 正则表达式
