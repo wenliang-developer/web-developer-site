@@ -7,6 +7,9 @@ wenliangplay@gmail.com
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
 
+TODO：
+- 陈果思修课
+
 - http://mirrors.163.com/ 网易开源镜像
 
 blog:
