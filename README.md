@@ -6,8 +6,10 @@ wenliangplay@gmail.com
 639299207
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
-http://mirrors.163.com/ 网易开源镜像
-https://dictionary.cambridge.org/dictionary/english/ 剑桥的词典网站
+
+其他:
+- http://mirrors.163.com/ 网易开源镜像
+- https://dictionary.cambridge.org/dictionary/english/ 剑桥的词典网站
 
 TODO：
 - 陈果思修课
