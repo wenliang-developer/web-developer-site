@@ -18,6 +18,9 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 - The Mythical Man-Month: Essays on Software Engineering - 人月神话
 - Introduction to Algorithms - 算法导论
 - The Clean Coder - 程序员的职业素养
+- Structure and Interpretation of Computer Programs - 计算机程序的构造和解释
+- Pragmatic Programmer - 程序员修炼之道
+- The Art of Computer Programming - 计算机程序设计艺术
 
 TODO：
 - 陈果思修课
