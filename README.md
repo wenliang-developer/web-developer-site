@@ -12,6 +12,13 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 - https://dictionary.cambridge.org/dictionary/english/ 剑桥的词典网站
 - https://zh.wikihow.com/ 做某件事的学习攻略
 
+漫漫编程路上必读的7本书：
+- Code Complete - 代码大全
+- The Pragmatic Programmer - From Journeyman to Master - 程序员修炼之道-从小工到专家
+- The Mythical Man-Month: Essays on Software Engineering - 人月神话
+- Introduction to Algorithms - 算法导论
+- The Clean Coder - 程序员的职业素养
+
 TODO：
 - 陈果思修课
 - 洋葱英语
