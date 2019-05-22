@@ -62,6 +62,7 @@ CAP原理和BASE思想
 - www.behance.net -- 设计网站
 - http://subtlepatterns.com/ - 很多很棒的图案
 - http://citeseer.ist.psu.edu/stats/citations - 高引用计算机科学文献
+- https://www.mathsisfun.com/ - 数学基础知识
 
 ##演讲
 - https://speakerdeck.com/ -- 丰富的演讲稿
