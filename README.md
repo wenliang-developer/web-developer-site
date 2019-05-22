@@ -62,7 +62,7 @@ CAP原理和BASE思想
 - www.behance.net -- 设计网站
 - http://subtlepatterns.com/ - 很多很棒的图案
 - http://citeseer.ist.psu.edu/stats/citations - 高引用计算机科学文献
-- https://www.mathsisfun.com/ - 数学基础知识
+
 
 ##演讲
 - https://speakerdeck.com/ -- 丰富的演讲稿
@@ -72,6 +72,7 @@ CAP原理和BASE思想
 - https://aframe.io/ -- A-Frame 是 Mozilla VR team 為了在 browser 上利用 Javascript 提供 VR 體驗的一套 web framework
 
 ## 算法
+- https://www.mathsisfun.com/ - 数学基础知识
 - http://mathworld.wolfram.com/ -- 网络最广泛的数学资源
 - https://grfia.dlsi.ua.es/ -- 阿利坎特大学 模式识别与人工智能小组
 
