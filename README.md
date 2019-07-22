@@ -7,6 +7,9 @@ wenliangplay@gmail.com
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
 
+知识点：
+-  https://www.youtube.com/watch?v=65-RbBwZQdU - JIT 优化代码
+
 其他:
 - http://mirrors.163.com/ 网易开源镜像
 - https://dictionary.cambridge.org/dictionary/english/ 剑桥的词典网站
