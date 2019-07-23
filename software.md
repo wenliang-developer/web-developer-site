@@ -1,1 +1,1 @@
-Bandizip
+- https://www.bandisoft.com/ - Bandizip 告别 2345流氓软件
