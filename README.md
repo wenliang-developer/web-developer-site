@@ -29,6 +29,7 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 - Pragmatic Programmer - 程序员修炼之道
 -- 尽其所能行有益之事
 - The Art of Computer Programming - 计算机程序设计艺术
+- Essentials of Programming Languages - 着重讲编译原理
 
 TODO：
 - 陈果思修课
