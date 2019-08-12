@@ -18,7 +18,9 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 - https://www.expressvpn.com/coupons expressvpn 优惠
 - https://sourcegraph.com/search -- GitHub 代码搜索
 
-漫漫编程路上必读的7本书：
+**编译原理：parser，语义分析，代码优化，类型推导，静态检查，机器代码**
+
+book：
 - Code Complete - 代码大全
 - The Pragmatic Programmer - From Journeyman to Master - 程序员修炼之道-从小工到专家
 - The Mythical Man-Month: Essays on Software Engineering - 人月神话
