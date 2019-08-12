@@ -10,6 +10,7 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 知识点：
 -  https://www.youtube.com/watch?v=65-RbBwZQdU - JIT 优化代码
 - Lambda -- 内涵越小外延越大
+- 哈夫曼编码
 
 其他:
 - http://mirrors.163.com/ 网易开源镜像
