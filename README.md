@@ -30,6 +30,7 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 -- 尽其所能行有益之事
 - The Art of Computer Programming - 计算机程序设计艺术
 - Essentials of Programming Languages - 着重讲编译原理
+- Programming Languages and Lambda Calculi - 程序语言的语义
 
 TODO：
 - 陈果思修课
