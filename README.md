@@ -6,6 +6,7 @@ wenliangplay@gmail.com
 639299207
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
+rabbitMQ uschedule
 
 知识点：
 -  https://www.youtube.com/watch?v=65-RbBwZQdU - JIT 优化代码
