@@ -12,6 +12,7 @@ rabbitMQ
 -  https://www.youtube.com/watch?v=65-RbBwZQdU - JIT 优化代码
 - Lambda -- 内涵越小外延越大
 - 哈夫曼编码
+- 计划评审技术(PERT)
 
 API:
 - https://pokeapi.co/ -- 口袋妖怪 接口
