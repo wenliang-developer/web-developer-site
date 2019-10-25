@@ -7,6 +7,8 @@ wenliangplay@gmail.com
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
 rabbitMQ
+2014年底研发中心开始着手以ZK+dubbo为基础，以spring+mybatis+redis
+为开发框架的全球分布式系统的研发工作
 
 知识点：
 -  https://www.youtube.com/watch?v=65-RbBwZQdU - JIT 优化代码
