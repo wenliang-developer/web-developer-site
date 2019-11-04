@@ -34,6 +34,7 @@ book：
 - The Pragmatic Programmer - From Journeyman to Master - 程序员修炼之道-从小工到专家
 - The Mythical Man-Month: Essays on Software Engineering - 人月神话
 - Introduction to Algorithms - 算法导论
+- Algorithm - 算法
 - The Clean Coder - 程序员的职业素养
 - Structure and Interpretation of Computer P
 -rograms - 计算机程序的构造和解释
