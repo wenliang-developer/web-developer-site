@@ -25,6 +25,7 @@ API:
 - https://zh.wikihow.com/ 做某件事的学习攻略
 - https://www.expressvpn.com/coupons expressvpn 优惠
 - https://sourcegraph.com/search -- GitHub 代码搜索
+
 - https://versus.com/ -- 电子产品对比
 
 **编译原理：parser，语义分析，代码优化，类型推导，静态检查，机器代码**
@@ -179,6 +180,7 @@ CAP原理和BASE思想
 - https://www.w3.org/WAI/intro/aria -- W3C 可访问性
 - https://dev.w3.org/ -- This is an WWW interface to the W3C public CVS tree
 - https://www.ecma-international.org/publications/standards/Ecma-262.htm -- ECMAScript 标准文档
+- https://help.github.com/ -- github 帮助文档
 
 ## Online Book：
 - https://www.safaribooksonline.com/ -- safari online book
