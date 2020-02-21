@@ -10,6 +10,15 @@ rabbitMQ
 2014年底研发中心开始着手以ZK+dubbo为基础，以spring+mybatis+redis
 为开发框架的全球分布式系统的研发工作
 
+词典：
+- https://www.ldoceonline.com/ -- 朗文当代高级英语辞典
+- https://www.macmillandictionary.com/ -- 麦克米伦 英国词典
+- https://www.collinsdictionary.com/zh/ -- 柯林斯词典
+- https://dictionary.cambridge.org/zhs/ -- 剑桥高阶英语学习词典
+- https://learnersdictionary.com/ -- 韦氏词典
+- https://www.oxfordlearnersdictionaries.com/ -- 牛津高阶英语词典
+- https://www.thesaurus.com/ -- 同义词查询
+
 知识点：
 -  https://www.youtube.com/watch?v=65-RbBwZQdU - JIT 优化代码
 - Lambda -- 内涵越小外延越大
