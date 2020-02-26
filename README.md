@@ -9,6 +9,7 @@ https://www.onehrcloud.com/cloud/user/user_login.action
 rabbitMQ
 2014年底研发中心开始着手以ZK+dubbo为基础，以spring+mybatis+redis
 为开发框架的全球分布式系统的研发工作
+MOOC(大规模开放在线课堂)
 
 词典：
 - https://www.ldoceonline.com/ -- 朗文当代高级英语辞典
