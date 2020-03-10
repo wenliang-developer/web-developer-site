@@ -11,6 +11,8 @@ rabbitMQ
 为开发框架的全球分布式系统的研发工作
 MOOC(大规模开放在线课堂)
 
+**编译原理：parser，语义分析，代码优化，类型推导，静态检查，机器代码**
+
 词典：
 - https://www.ldoceonline.com/ -- 朗文当代高级英语辞典
 - https://www.macmillandictionary.com/ -- 麦克米伦 英国词典
@@ -37,8 +39,6 @@ API:
 - https://sourcegraph.com/search -- GitHub 代码搜索
 - https://archive.org/ -- 互联网档案馆
 - https://versus.com/ -- 电子产品对比
-
-**编译原理：parser，语义分析，代码优化，类型推导，静态检查，机器代码**
 
 book：
 - Code Complete - 代码大全
