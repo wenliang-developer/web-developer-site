@@ -1,4 +1,4 @@
 - https://www.bandisoft.com/ - Bandizip 告别 2345流氓软件
 - https://www.qbittorrent.org/download.php - BitTorrent 客户端
-- - https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin - How to write a search plugin
+  - https://github.com/qbittorrent/search-plugins/wiki/How-to-write-a-search-plugin - How to write a search plugin
 - https://www.sumatrapdfreader.org/free-pdf-reader.html - Sumatra PDF -- Windows 下的 PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR 阅读器
