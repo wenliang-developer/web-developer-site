@@ -17,10 +17,10 @@ Git 历史记录中有三种对象：
 - `tree` 对象 - 记录着目录结构和 blob 对象索引
 - `commit`对象 - 会包含一个指向暂存内容快照的指针（前述树对象的指针和所有提交信息），还包含了作者的姓名和邮箱、提交时输入的信息以及指向它的父对象的指针。首次提交产生的提交对象没有父对象，普通提交操作产生的提交对象有一个父对象， 而由多个分支合并产生的提交对象有多个父对象
 
-####HEAD
+#### HEAD
 它是一个指针，指向当前所在的本地分支
 
-###基本命令
+### 基本命令
 
 #### 创建分支
 ```
@@ -66,9 +66,11 @@ git log --oneline --decorate --graph --all
 
 ### 远程分支
 
-####查看远程引用的分支列表
+#### 查看远程引用的分支列表
 ```
 git ls-remote <remote>
+
+git remote show <remote> 
 ```
 
 #### 创建远程分支
@@ -77,6 +79,11 @@ git clone -o <remote> <remoteUrl>
 
 git remote add <remote> <remoteUrl>
 git fetch <remote>
+```
+
+#### 移除远程分支
+```
+git remote remove origin
 ```
 
 #### 远程分支同步数据
@@ -129,7 +136,7 @@ git branch -vv
 git fetch --all; git branch -vv
 ```
 
-#### 删除远程分支
+#### 删除服务器上的分支
 ```
 git push origin --delete serverfix
 ```
@@ -220,4 +227,5 @@ SSH Git 服务搭建的全部 —— 只要在服务器上加入可以用 SSH �
       - 就是给团队里的每个人创建账号，这种方法很直接但也很麻烦。 或许你不会想要为每个人运行一次 adduser（或者 useradd）并且设置临时密码。
       - 设置 SSH 通过密钥登录。在主机上建立一个 git 账户，让每个需要写权限的人发送一个 SSH 公钥， 然后将其加入 git 账户的 ~/.ssh/authorized_keys 文件。 这样一来，所有人都将通过 git 账户访问主机。 这一点也不会影响提交的数据——访问主机用的身份不会影响提交对象的提交者信息。
       - 让 SSH 服务器通过某个 LDAP 服务，或者其他已经设定好的集中授权机制，来进行授权。 只要每个用户可以获得主机的 shell 访问权限，任何 SSH 授权机制你都可视为是有效的。
+
 
