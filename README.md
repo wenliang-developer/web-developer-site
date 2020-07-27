@@ -7,6 +7,7 @@ wenliangplay@gmail.com
 https://www.onehrcloud.com/cloud/user/user_login.action
 软件开发原则 DRY
 rabbitMQ
+Linux KVM -- 用于基于内核的虚拟机
 2014年底研发中心开始着手以ZK+dubbo为基础，以spring+mybatis+redis
 为开发框架的全球分布式系统的研发工作
 MOOC(大规模开放在线课堂)
