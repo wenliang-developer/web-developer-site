@@ -56,7 +56,7 @@ book：
 - The Art of Computer Programming - 计算机程序设计艺术
 - Essentials of Programming Languages - 着重讲编译原理
 - Programming Languages and Lambda Calculi - 程序语言的语义
-- https://pythonbooks.org/ - python 书籍官网推荐
+- https://pythonbooks.org/ - python 官网推荐书籍
 
 TODO：
 - 陈果思修课
