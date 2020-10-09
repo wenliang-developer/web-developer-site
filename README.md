@@ -13,6 +13,9 @@ MOOC(大规模开放在线课堂)
 
 **编译原理：parser，语义分析，代码优化，类型推导，静态检查，机器代码**
 
+工具：
+- zabbix - Zabbix 是由Alexei Vladishev 开发的一种网络监视、管理系统，基于 Server-Client 架构。可用于监视各种网络服务、服务器和网络机器等状态
+
 词典：
 - https://www.ldoceonline.com/ -- 朗文当代高级英语辞典
 - https://www.macmillandictionary.com/ -- 麦克米伦 英国词典
