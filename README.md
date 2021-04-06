@@ -35,6 +35,7 @@ MOOC(大规模开放在线课堂)
 - 计划评审技术(PERT)
 - Linux KVM -- 用于基于内核的虚拟机
 - ISO -- 制定全世界工商业国际标准的国际标准建立机构
+- BNF -- 巴科斯范式(Backus Normal Form) -- 是一种用于表示上下文无关文法的语言
 
 API:
 - https://pokeapi.co/ -- 口袋妖怪 接口
