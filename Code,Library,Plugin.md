@@ -43,4 +43,4 @@
 - https://developers.google.com/v8/ - google v8 引擎
 
 ## npm
-- lerna -- 用来管理和发布基于 git & npm 的多包项目工具
+- lerna -- 是一种工具，针对 使用 git 和 npm 管理多软件包代码仓库的工作流程进行优化
