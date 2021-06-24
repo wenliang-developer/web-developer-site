@@ -41,3 +41,6 @@
 
 ## code
 - https://developers.google.com/v8/ - google v8 引擎
+
+## npm
+- lerna -- 用来管理和发布基于 git & npm 的多包项目工具
