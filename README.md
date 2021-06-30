@@ -10,6 +10,7 @@ rabbitMQ
 2014年底研发中心开始着手以ZK+dubbo为基础，以spring+mybatis+redis
 为开发框架的全球分布式系统的研发工作
 MOOC(大规模开放在线课堂)
+elasticsearch flink（camel logstash） kafka（MQ） kibana logstash filebeat  ELK EFK.
 
 **编译原理：parser，语义分析，代码优化，类型推导，静态检查，机器代码**
 
