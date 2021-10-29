@@ -119,6 +119,7 @@ CAP原理和BASE思想
 - https://www.mathsisfun.com/ - 数学基础知识
 - http://mathworld.wolfram.com/ -- 网络最广泛的数学资源
 - https://grfia.dlsi.ua.es/ -- 阿利坎特大学 模式识别与人工智能小组
+- https://www.kaggle.com/ -- 是一個數據建模和數據分析競賽平台
 
 ## UML tools
 - https://www.draw.io/
